@@ -1,7 +1,8 @@
 # 
-<h1 align="center">Hi 👋, I'm Maurício Lopes</h1>
-<h3 align="center">Technology student from Brazil</h3><br>
+<h1 align="center">:earth_americas:Maurício Lopes:earth_asia:</h1>
+<!--<h3 align="center">Technology student from Brazil</h3><br>-->
 
+- Hi 👋, I'm @MlMauricioLopes
 - 🔭 I’m currently working on **in some projects focused on Python**
 
 - 🌱 I’m currently learning **Clould computing, Python, SQL, Numpy and Pandas**
@@ -10,7 +11,7 @@
 
 - 🤝 I’m looking for help with **get a professional opportunity in the technology area.**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mlmauriciolopes/**
 
@@ -40,8 +41,8 @@
   
   ##
 <div align="center">
-  <a href = "mailto:mlsilva1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mlmauriciolopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <!-- <a href = "mailto:mlsilva1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
+ <!-- <a href="https://www.linkedin.com/in/mlmauriciolopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
   </div><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mlmauriciolopes&label=Profile%20views&color=0e75b6&style=flat-square" alt="mlmauriciolopes" /> </p>
