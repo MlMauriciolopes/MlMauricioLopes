@@ -23,6 +23,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mlmauriciolopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlmauriciolopes&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
 </p>
-
-
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=mlmauriciolopes&theme=xcode)
