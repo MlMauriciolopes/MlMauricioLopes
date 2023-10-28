@@ -20,12 +20,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </p>
 
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/mlmauriciolopes/mlmauriciolopes/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/mlmauriciolopes/mlmauriciolopes/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/mlmauriciolopes/mlmauriciolopes/master/profile-summary-card-output/default/2-most-commit-language.svg"></br>
+</p>
+
+<!--
 <h3 align="center">GitHub Metrics:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mlmauriciolopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlmauriciolopes&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
 </p>
-
+-->
 <h3 align="center">Contribution Graph 📈</h3>
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=mlmauriciolopes&theme=xcode&area=true" alt="Contribution Graph" />
