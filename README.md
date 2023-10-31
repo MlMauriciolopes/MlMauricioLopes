@@ -18,6 +18,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </p>
 
+ # ActiviTy Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?mlmauriciolopes=#your-username&theme=dracula&hide_border=true)
+
 <h3 align="center">GitHub Metrics:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mlmauriciolopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
