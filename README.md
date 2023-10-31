@@ -19,7 +19,7 @@
 </p>
 
  # ActiviTy Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?mlmauriciolopes=#mlmauriciolopes&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mlmauriciolopes&theme=dracula&hide_border=true)
 
 
 <h3 align="center">GitHub Metrics:</h3>
